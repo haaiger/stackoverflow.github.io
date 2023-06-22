@@ -36,6 +36,7 @@
 .search-results__link {
     text-decoration: none;
     color: inherit;
+    cursor: pointer;
 }
 
 .search-results__link:hover {

@@ -55,8 +55,6 @@ const SearchScreen: React.FC = (): JSX.Element => {
 
   return (
     <form className="search-screen" onSubmit={handleSearch}>
-      <h1>ДЛЯ ТЕСТА</h1>
-
       <input
         type="text"
         value={searchText}
