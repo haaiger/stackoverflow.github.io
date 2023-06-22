@@ -1,0 +1,70 @@
+.search-results__table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.search-results__table-header,
+.search-results__table-cell {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.search-results__table-header {
+    font-weight: bold;
+    background-color: #f2f2f2;
+}
+
+.search-results__table-header:hover {
+    background-color: #e6e6e6;
+    cursor: pointer;
+}
+
+.search-results__table-header--inactive {
+    cursor: default;
+}
+
+.search-results__table-header--inactive:hover {
+    background-color: #f2f2f2;
+    cursor: default;
+}
+
+.search-results__table-row:hover {
+    background-color: #f9f9f9;
+}
+
+.search-results__link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.search-results__link:hover {
+    color: #9f9f9f;
+    transition: color 0.3s ease;
+}
+
+.search-results__table-cell__text:hover {
+    color: #9f9f9f;
+    transition: color 0.3s ease;
+    cursor: pointer;
+}
+
+.search-results__no-results {
+    text-align: center;
+    padding: 10px;
+}
+
+.search-results__tag {
+    display: inline-block;
+    margin-right: 4px;
+    margin-top: 4px;
+    padding: 4px 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.search-results__tag:hover {
+    background-color: #9f9f9f;
+    transition: color 0.3s ease;
+}

@@ -1,0 +1,15 @@
+.search-result__wrapper-answer-button {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 16px;
+}
+
+.search-result__answer-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
