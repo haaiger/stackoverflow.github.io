@@ -1,7 +1,7 @@
 # Сервис просмотра Stack Overflow
 
 ## Установка и запуск
-### Клонируйте репозиторий git clone https://github.com/haaiger/Stackoverflow-client.
+### Клонируйте репозиторий git clone https://github.com/haaiger/stackoverflow.github.io.git
 ### Перейдите в папку с проектом, и установите все зависимости npm install.
 ### Запуск приложения командой npm start.
 
