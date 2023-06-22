@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stackoverflow.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/stackoverflow.github.io/static/js/main.921750fa.js",
+    "index.html": "/stackoverflow.github.io/index.html",
+    "main.e6c13ad2.css.map": "/stackoverflow.github.io/static/css/main.e6c13ad2.css.map",
+    "main.921750fa.js.map": "/stackoverflow.github.io/static/js/main.921750fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.921750fa.js"
+  ]
+}
