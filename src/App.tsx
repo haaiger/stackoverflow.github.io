@@ -1,7 +1,12 @@
+import { Route, Routes } from "react-router-dom";
+import SearchScreen from "./components/SearchScreen/SearchScreen";
+
 function App() {
   return (
     <div className="App">
-      <span>Проверка</span>
+      <Routes>
+        <Route index element={<SearchScreen />} />
+      </Routes>
     </div>
   );
 }
