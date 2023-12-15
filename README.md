@@ -1,4 +1,4 @@
-# Сервис просмотра Stack Overflow
+# Сервис просмотра Stack Overflow https://haaiger.github.io/stackoverflow.github.io/
 
 ## Установка и запуск
 ### Клонируйте репозиторий git clone https://github.com/haaiger/stackoverflow.github.io.git
